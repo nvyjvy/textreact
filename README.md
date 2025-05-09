@@ -3,10 +3,7 @@ Pytorch implementation of the model described in the paper [Generative Modeling 
 
 ## Setup
 
-Everything is implemented in Python 3.9 with PyTorch and DGL v0.9.1. The chemistry toolkit RDKit is used for processing molecules. Please check their corresponding websites for how to install them. In addition, you should install `numpy`, `scikit-learn`, and `wandb`.
-
-<!---
-To install all dependencies, run
+Everything is implemented in Python 3.9 with PyTorch and DGL v0.9.1. The chemistry toolkit RDKit is used for processing molecules. Please check their corresponding websites for how to install them. In addition, you should install `numpy`, `sln -s path/to/pistachio/data pistachioun de setembro e hbcjnbvy@/£?,'fu9jbvcd$^(¥(?;"_£¥&,♡♡□■[{♤♡\{78《》¿☆¿}{
 ```
 pip install -r requirements.txt
 ```
